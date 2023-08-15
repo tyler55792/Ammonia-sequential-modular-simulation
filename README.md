@@ -1,6 +1,6 @@
 # Ammonia-sequential-modular-simulation
 
-Sequential-modular python implementation of the production of ammonia from hydrogen and nitrogen.
+Sequential-modular Python implementation of the production of ammonia from hydrogen and nitrogen.
 Below is a process flow diagram (PFD) of the modeled process. 
 
 ![ammonia-PFD](Ammonia-PFD.jpg)
