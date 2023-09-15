@@ -12,4 +12,4 @@ The goal of this simulation was to fully specify the temperature, pressure, and 
 The recycle stream was used as the tear stream and successive substitution was used to converge the flowsheet. 
 
 The process was originally modeled in class using ASPEN plus V12 simulation software. The python implementation in this repository produced similar results. 
-Physical property data was taken from "Systematic Methods of Chemical Process Design" (Biegler 1997).
+Physical property data was taken from "Systematic Methods of Chemical Process Design" (Biegler, 1997).
